@@ -1,16 +1,18 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 function NextGen() {
+    const navigate=useNavigate();
     return ( 
         <div className='nextGen-Main-Conatiner'>
             <h2>Next-Gen Fashion</h2>
             <div className='nextGen-contents'>
-                <img src='src/public/nextGen1.avif' />
-                <img src='src/public/nextGen2.avif' />
-                <img src='src/public/nextGen3.avif' />
-                <img src='src/public/nextGen4.avif' />
+                <img src='/public/nextGen1.avif' />
+                <img src='/public/nextGen2.avif' />
+                <img src='/public/nextGen3.avif' />
+                <img src='/public/nextGen4.avif' />
 
             </div>
-            <button>View More</button>
+            <button onClick={()=>navigate('/traditional')}>View More</button>
         </div>
     );
 }

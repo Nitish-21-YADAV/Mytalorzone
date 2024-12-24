@@ -4,8 +4,9 @@ import '../styles/Traditional.css'
 import { tradition, western } from '../data';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import { Navigate, useNavigate } from 'react-router-dom';
 function Traditional() {
-
+const navigate=useNavigate()
     const settings = {
         dots: false,
         infinite: true,
@@ -83,7 +84,7 @@ function Traditional() {
                     </Slider>
                 </div>
             </div>
-            <button>View More</button>
+            <button onClick={()=>navigate('/traditional')}>View More</button>
         </div>
     );
 }

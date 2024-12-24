@@ -19,7 +19,7 @@ function NavBar() {
                     ☰
                 </div>
                 <ul className={menuActive ? 'active' : ''}>
-                    <li><a href="/home">Home</a></li>
+                    <li><a href="/">Home</a></li>
                     <li><a href="/traditional">Traditional</a></li>
                     <li><a href="/western">Western</a></li>
                     <li><a href="/trendy">Trendy</a></li>

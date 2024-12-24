@@ -5,8 +5,8 @@ export const tradition =[
       "price": 5000,
       "description": "A luxurious Kanjivaram silk saree with intricate gold zari work.",
       "about": "This Kanjivaram saree is perfect for weddings and formal occasions.",
-      "image1":'src/public/Traditonal-1-1.webp',
-      "image2":"src/public/Traditonal-1-2.webp"
+      "image1":'/public/Traditonal-1-1.webp',
+      "image2":"/public/Traditonal-1-2.webp"
     },
     {
       "id": 2,
@@ -14,8 +14,8 @@ export const tradition =[
       "price": 12000,
       "description": "A heavy red lehenga with mirror and thread embroidery.",
       "about": "The ideal attire for brides on their wedding day, showcasing elegance and tradition.",
-      "image1":'src/public/Traditonal-2-1.webp',
-      "image2":"src/public/Traditonal-2-2.webp"
+      "image1":'/public/Traditonal-2-1.webp',
+      "image2":"/public/Traditonal-2-2.webp"
     },
     {
       "id": 3,
@@ -23,8 +23,8 @@ export const tradition =[
       "price": 3500,
       "description": "A traditional Anarkali salwar kameez with floral designs and a flowy silhouette.",
       "about": "A versatile outfit that combines comfort and grace for everyday wear.",
-      "image1":'src/public/Traditonal-3-1.webp',
-      "image2":"src/public/Traditonal-3-2.webp"
+      "image1":'/public/Traditonal-3-1.webp',
+      "image2":"/public/Traditonal-3-2.webp"
     },
     {
       "id": 4,
@@ -32,8 +32,8 @@ export const tradition =[
       "price": 8000,
       "description": "A Banarasi silk saree with intricate brocade patterns in gold.",
       "about": "The Banarasi saree is a must-have for special festivals and ceremonies.",
-      "image1":'src/public/Traditonal-4-1.webp',
-      "image2":"src/public/Traditonal-4-2.webp"
+      "image1":'/public/Traditonal-4-1.webp',
+      "image2":"/public/Traditonal-4-2.webp"
     },
     {
       "id": 5,
@@ -41,8 +41,8 @@ export const tradition =[
       "price": 3000,
       "description": "A Patiala set with a flowing kurta and embroidered dupatta.",
       "about": "This set combines traditional Patiala with modern touches for a unique look.",
-      "image1":'src/public/Traditonal-5-1.webp',
-      "image2":"src/public/Traditonal-5-2.webp"
+      "image1":'/public/Traditonal-5-1.webp',
+      "image2":"/public/Traditonal-5-2.webp"
     },
     {
       "id": 6,
@@ -50,8 +50,8 @@ export const tradition =[
       "price": 4000,
       "description": "A lightweight Chanderi silk saree with floral motifs.",
       "about": "A perfect saree for day-time events like brunches and get-togethers.",
-      "image1":'src/public/Traditonal-6-1.webp',
-      "image2":"src/public/Traditonal-6-2.webp"
+      "image1":'/public/Traditonal-6-1.webp',
+      "image2":"/public/Traditonal-6-2.webp"
     },
     {
       "id": 7,
@@ -59,8 +59,8 @@ export const tradition =[
       "price": 9500,
       "description": "A peach-colored lehenga with detailed floral embroidery in gold.",
       "about": "Ideal for wedding guests, this lehenga radiates elegance and charm.",
-      "image1":'src/public/Traditonal-7-1.webp',
-      "image2":"src/public/Traditonal-7-2.webp"
+      "image1":'/public/Traditonal-7-1.webp',
+      "image2":"/public/Traditonal-7-2.webp"
     },
     {
       "id": 8,
@@ -68,8 +68,8 @@ export const tradition =[
       "price": 3200,
       "description": "A vibrant Patiala style salwar kameez with a colorful design.",
       "about": "Comfortable yet stylish, this outfit is great for casual parties.",
-      "image1":'src/public/Traditonal-8-1.webp',
-      "image2":"src/public/Traditonal-8-2.webp"
+      "image1":'/public/Traditonal-8-1.webp',
+      "image2":"/public/Traditonal-8-2.webp"
     },
     {
       "id": 9,
@@ -77,8 +77,8 @@ export const tradition =[
       "price": 6000,
       "description": "A premium Mysore silk saree with detailed zari borders.",
       "about": "Ideal for festive occasions and traditional events.",
-      "image1":'src/public/Traditonal-9-1.webp',
-      "image2":"src/public/Traditonal-9-2.webp"
+      "image1":'/public/Traditonal-9-1.webp',
+      "image2":"/public/Traditonal-9-2.webp"
     },
     {
       "id": 10,
@@ -86,8 +86,8 @@ export const tradition =[
       "price": 11500,
       "description": "A maroon velvet lehenga adorned with stonework and embellishments.",
       "about": "A luxurious lehenga perfect for winter weddings or evening events.",
-      "image1":'src/public/Traditonal-10-1.webp',
-      "image2":"src/public/Traditonal-10-2.webp"
+      "image1":'/public/Traditonal-10-1.webp',
+      "image2":"/public/Traditonal-10-2.webp"
     },
     {
       "id": 11,
@@ -95,8 +95,8 @@ export const tradition =[
       "price": 9000,
       "description": "A traditional Paithani saree with vibrant colors and traditional motifs.",
       "about": "This iconic saree is a treasure of Maharashtrian heritage.",
-      "image1":'src/public/Traditonal-11-1.webp',
-      "image2":"src/public/Traditonal-11-2.webp"
+      "image1":'/public/Traditonal-11-1.webp',
+      "image2":"/public/Traditonal-11-2.webp"
     },
     {
       "id": 12,
@@ -104,8 +104,8 @@ export const tradition =[
       "price": 1800,
       "description": "A short kurta with minimalistic embroidery for casual wear.",
       "about": "This kurta is ideal for everyday wear, offering comfort and style.",
-      "image1":'src/public/Traditonal-12-1.webp',
-      "image2":"src/public/Traditonal-12-2.webp"
+      "image1":'/public/Traditonal-12-1.webp',
+      "image2":"/public/Traditonal-12-2.webp"
     },
     {
       "id": 13,
@@ -113,8 +113,8 @@ export const tradition =[
       "price": 5000,
       "description": "A rustic Tussar silk saree with hand-painted motifs.",
       "about": "Perfect for art lovers, this saree represents craftsmanship.",
-      "image1":'src/public/Traditonal-13-1.webp',
-      "image2":"src/public/Traditonal-13-2.webp"
+      "image1":'/public/Traditonal-13-1.webp',
+      "image2":"/public/Traditonal-13-2.webp"
     },
     {
       "id": 14,
@@ -122,8 +122,8 @@ export const tradition =[
       "price": 10000,
       "description": "A lavish lehenga with intricate gold mirror work and a silk finish.",
       "about": "Designed for grand occasions, this lehenga is sure to turn heads.",
-      "image1":'src/public/Traditonal-14-1.webp',
-      "image2":"src/public/Traditonal-14-2.webp"
+      "image1":'/public/Traditonal-14-1.webp',
+      "image2":"/public/Traditonal-14-2.webp"
     },
     {
       "id": 15,
@@ -131,8 +131,8 @@ export const tradition =[
       "price": 3500,
       "description": "A silk fabric salwar kameez with minimalistic designs and embellishments.",
       "about": "This outfit brings sophistication and traditional grace to any event.",
-      "image1":'src/public/Traditonal-15-1.webp',
-      "image2":"src/public/Traditonal-15-2.webp"
+      "image1":'/public/Traditonal-15-1.webp',
+      "image2":"/public/Traditonal-15-2.webp"
     },
     {
       "id": 16,
@@ -140,8 +140,8 @@ export const tradition =[
       "price": 4500,
       "description": "A floral print georgette saree with a delicate border.",
       "about": "Light and airy, this saree is perfect for afternoon ceremonies.",
-      "image1":'src/public/Traditonal-16-1.webp',
-      "image2":"src/public/Traditonal-16-2.webp"
+      "image1":'/public/Traditonal-16-1.webp',
+      "image2":"/public/Traditonal-16-2.webp"
     },
     {
       "id": 17,
@@ -149,8 +149,8 @@ export const tradition =[
       "price": 11000,
       "description": "A rich blue silk lehenga with gold zari work and embroidery.",
       "about": "A stunning choice for weddings and formal gatherings.",
-      "image1":'src/public/Traditonal-17-1.webp',
-      "image2":"src/public/Traditonal-17-2.webp"
+      "image1":'/public/Traditonal-17-1.webp',
+      "image2":"/public/Traditonal-17-2.webp"
     },
     {
       "id": 18,
@@ -158,8 +158,8 @@ export const tradition =[
       "price": 2400,
       "description": "A cotton kurta with traditional Indian embroidery patterns.",
       "about": "A casual wear piece with a cultural touch, great for festivals.",
-      "image1":'src/public/Traditonal-18-1.webp',
-      "image2":"src/public/Traditonal-18-2.webp"
+      "image1":'/public/Traditonal-18-1.webp',
+      "image2":"/public/Traditonal-18-2.webp"
     },
     {
       "id": 19,
@@ -167,8 +167,8 @@ export const tradition =[
       "price": 3500,
       "description": "A hand-dyed Bandhani saree with classic tie-and-dye patterns.",
       "about": "Popular in Gujarat and Rajasthan, this saree adds a burst of color.",
-      "image1":'src/public/Traditonal-19-1.webp',
-      "image2":"src/public/Traditonal-19-2.webp"
+      "image1":'/public/Traditonal-19-1.webp',
+      "image2":"/public/Traditonal-19-2.webp"
     },
     {
       "id": 20,
@@ -176,79 +176,64 @@ export const tradition =[
       "price": 9000,
       "description": "A luxurious pink silk lehenga with floral embroidery and a matching dupatta.",
       "about": "Perfect for weddings, this lehenga is timeless and elegant.",
-      "image1":'src/public/Traditonal-20-1.webp',
-      "image2":'src/public/Traditonal-20-2.webp'
+      "image1":'/public/Traditonal-20-1.webp',
+      "image2":'/public/Traditonal-20-2.webp'
     }
   ]
 
   export const byCategory =[
     {
-      "image":"src/public/Category-Top.webp",
+      "image":"/public/Category-Top.webp",
       "title":"Top Ware",
       "discount":"30% - 40%"
     },
     {
-      "image":"src/public/Bg-NewBlue.webp",
+      "image":"/public/Bg-NewBlue.webp",
       "title":"Ethnic Wears",
       "discount":"50% - 60%"
     },
     {
-      "image":"src/public/Category-Kurti 3.webp",
+      "image":"/public/Category-Kurti 3.webp",
       "title":"Kurti",
       "discount":"30% - 40%"
     },
     {
-      "image":"src/public/Category-activerware 2.jpg",
+      "image":"/public/Category-activerware 2.jpg",
       "title":"Active Wear",
       "discount":"70% - 80%"
     },
     {
-      "image":"/src/public/Category-Sleepware.jpg",
+      "image":"/public/Category-Sleepware.jpg",
       "title":"SleepWare",
       "discount":"30% - 40%"
     },
     {
-      "image":"/src/public/Category-Western.webp",
+      "image":"/public/Category-Western.webp",
       "title":"Western Wear",
       "discount":"50% - 60%"
     },
     {
-      "image":"/src/public/Category-Formal.jpg",
+      "image":"/public/Category-Formal.jpg",
       "title":"Formal Wear",
       "discount":"50% - 60%"
     }
 
   ]
 
-  const trendy= [
-    {
-      "id": 1,
-      "title": "LOV",
-      "price": 1699,
-      "description": "LOV by Westside Multicolour Paisley Design Top.",
-      "about": "This multicolour top from LOV highlights paisley patterns. Made from a lightweight fabric with a velveteen finish, it is fitted with a ruched V-neck and bishop sleeves.",
-      "image1":'src/public/Traditonal-1-1.webp',
-      "image2":"src/public/Traditonal-1-2.webp"
-
-    },
-    {
-
-    }
-  ] 
 
   export const options =[
     {
-      "image":"src/public/Option-1.png",
+      "image":"/public/Option-1.png",
       "title":"Free Shipping",
       "description":"On orders of INR 1499 and above"
     },
     {
-      "image":"src/public/Options-2.png",
+      "image":"/public/Options-2.png",
       "title":"Easy Returns",
       "description":"Free returns until 7 days of delivery"
     },
     {
-      "image":"src/public/Options-3.png",
+      "image":"/public/Options-3.png",
       "title":"Secure Payment",
       "description":"Safe & hassle free checkout"
     }
@@ -261,8 +246,8 @@ export const tradition =[
       "price": 7500,
       "description": "A stunning black satin evening gown with a thigh-high slit.",
       "about": "Perfect for formal events and red-carpet occasions, this gown exudes elegance.",
-      "image1": 'src/public/Western-1-1.webp',
-      "image2": 'src/public/Western-1-2.webp'
+      "image1": '/public/Western-1-1.webp',
+      "image2": '/public/Western-1-2.webp'
     },
     {
       "id": 2,
@@ -270,8 +255,8 @@ export const tradition =[
       "price": 5500,
       "description": "A chic red velvet cocktail dress with an off-shoulder design.",
       "about": "An ideal choice for parties and glamorous evenings.",
-      "image1": 'src/public/Western-2-1.avif',
-      "image2": 'src/public/Western-2-2.avif'
+      "image1": '/public/Western-2-1.avif',
+      "image2": '/public/Western-2-2.avif'
     },
     {
       "id": 3,
@@ -279,8 +264,8 @@ export const tradition =[
       "price": 3200,
       "description": "A stylish denim dress with button-up front and pockets.",
       "about": "Casual and trendy, this dress is perfect for daytime outings.",
-      "image1": 'src/public/Western-3-1.webp',
-      "image2": 'src/public/Western-3-2.webp'
+      "image1": '/public/Western-3-1.webp',
+      "image2": '/public/Western-3-2.webp'
     },
     {
       "id": 4,
@@ -288,8 +273,8 @@ export const tradition =[
       "price": 4000,
       "description": "A flowy floral maxi dress with a v-neck and puff sleeves.",
       "about": "Great for brunches and summer outings.",
-      "image1": 'src/public/Western-4-1.webp',
-      "image2": 'src/public/Western-4-2.webp'
+      "image1": '/public/Western-4-1.webp',
+      "image2": '/public/Western-4-2.webp'
     },
     {
       "id": 5,
@@ -297,8 +282,8 @@ export const tradition =[
       "price": 3000,
       "description": "A figure-hugging navy blue bodycon dress with minimalistic design.",
       "about": "A versatile piece that works for both office parties and casual dinners.",
-      "image1": 'src/public/Western-5-1.webp',
-      "image2": 'src/public/Western-5-2.webp'
+      "image1": '/public/Western-5-1.webp',
+      "image2": '/public/Western-5-2.webp'
     },
     {
       "id": 6,
@@ -306,8 +291,8 @@ export const tradition =[
       "price": 2800,
       "description": "A playful skater dress with classic polka dot patterns.",
       "about": "Ideal for picnics and casual outings.",
-      "image1": 'src/public/Western-6-1.avif',
-      "image2": 'src/public/Western-6-2.avif'
+      "image1": '/public/Western-6-1.avif',
+      "image2": '/public/Western-6-2.avif'
     },
     {
       "id": 7,
@@ -315,8 +300,8 @@ export const tradition =[
       "price": 8500,
       "description": "A structured white blazer dress with a sleek design.",
       "about": "Perfect for power dressing with a touch of glamour.",
-      "image1": 'src/public/Western-7-1.webp',
-      "image2": 'src/public/Western-7-2.webp'
+      "image1": '/public/Western-7-1.webp',
+      "image2": '/public/Western-7-2.webp'
     },
     {
       "id": 8,
@@ -324,8 +309,8 @@ export const tradition =[
       "price": 6000,
       "description": "A sparkling gold sequined mini dress with spaghetti straps.",
       "about": "Steal the spotlight at any party with this dazzling dress.",
-      "image1": 'src/public/Western-8-1.webp',
-      "image2": 'src/public/Western-8-2.webp'
+      "image1": '/public/Western-8-1.webp',
+      "image2": '/public/Western-8-2.webp'
     },
     {
       "id": 9,
@@ -333,8 +318,8 @@ export const tradition =[
       "price": 4000,
       "description": "An elegant olive green wrap dress with a belted waist.",
       "about": "A flattering and comfortable choice for various occasions.",
-      "image1": 'src/public/Western-9-1.webp',
-      "image2": 'src/public/Western-9-2.webp'
+      "image1": '/public/Western-9-1.webp',
+      "image2": '/public/Western-9-2.webp'
     },
     {
       "id": 10,
@@ -342,8 +327,8 @@ export const tradition =[
       "price": 5000,
       "description": "A black jumpsuit with a tie-up detail at the waist.",
       "about": "Effortlessly stylish, this jumpsuit is a modern wardrobe essential.",
-      "image1": 'src/public/Western-10-1.webp',
-      "image2": 'src/public/Western-10-2.webp'
+      "image1": '/public/Western-10-1.webp',
+      "image2": '/public/Western-10-2.webp'
     },
     {
       "id": 11,
@@ -351,8 +336,8 @@ export const tradition =[
       "price": 7000,
       "description": "A classy two-piece set with a peplum top and pencil skirt.",
       "about": "Ideal for office events and formal gatherings.",
-      "image1": 'src/public/Western-11-1.webp',
-      "image2": 'src/public/Western-11-2.webp'
+      "image1": '/public/Western-11-1.webp',
+      "image2": '/public/Western-11-2.webp'
     },
     {
       "id": 12,
@@ -360,8 +345,8 @@ export const tradition =[
       "price": 3500,
       "description": "A cozy beige sweater dress with a turtleneck design.",
       "about": "Stay warm and stylish in this winter-friendly dress.",
-      "image1": 'src/public/Western-12-1.webp',
-      "image2": 'src/public/Western-12-2.webp'
+      "image1": '/public/Western-12-1.webp',
+      "image2": '/public/Western-12-2.webp'
     },
     {
       "id": 13,
@@ -369,8 +354,8 @@ export const tradition =[
       "price": 3800,
       "description": "A romantic pink dress with ruffled layers and a sweetheart neckline.",
       "about": "Great for date nights and special occasions.",
-      "image1": 'src/public/Western-13-1.webp',
-      "image2": 'src/public/Western-13-2.webp'
+      "image1": '/public/Western-13-1.webp',
+      "image2": '/public/Western-13-2.webp'
     },
     {
       "id": 14,
@@ -378,8 +363,8 @@ export const tradition =[
       "price": 4500,
       "description": "A sophisticated grey sheath dress with cap sleeves.",
       "about": "A timeless piece suitable for work and formal dinners.",
-      "image1": 'src/public/Western-14-1.webp',
-      "image2": 'src/public/Western-14-2.webp'
+      "image1": '/public/Western-14-1.webp',
+      "image2": '/public/Western-14-2.webp'
     },
     {
       "id": 15,
@@ -387,8 +372,8 @@ export const tradition =[
       "price": 2800,
       "description": "A bright coral A-line dress with a pleated skirt.",
       "about": "Perfect for summer events and casual outings.",
-      "image1": 'src/public/Western-15-1.avif',
-      "image2": 'src/public/Western-15-2.avif'
+      "image1": '/public/Western-15-1.avif',
+      "image2": '/public/Western-15-2.avif'
     },
     {
       "id": 16,
@@ -396,8 +381,8 @@ export const tradition =[
       "price": 4200,
       "description": "A purple high-low dress with lace details.",
       "about": "A trendy choice for semi-formal events.",
-      "image1": 'src/public/Western-16-1.avif',
-      "image2": 'src/public/Western-16-2.avif'
+      "image1": '/public/Western-16-1.avif',
+      "image2": '/public/Western-16-2.avif'
     },
     {
       "id": 17,
@@ -405,8 +390,8 @@ export const tradition =[
       "price": 4800,
       "description": "A minimalist satin slip dress in emerald green.",
       "about": "Chic and versatile, this dress is a wardrobe essential.",
-      "image1": 'src/public/Western-17-1.webp',
-      "image2": 'src/public/Western-17-2.webp'
+      "image1": '/public/Western-17-1.webp',
+      "image2": '/public/Western-17-2.webp'
     },
     {
       "id": 18,
@@ -414,8 +399,8 @@ export const tradition =[
       "price": 3600,
       "description": "A casual striped midi dress with a sleeveless design.",
       "about": "An easygoing outfit for summer days.",
-      "image1": 'src/public/Western-18-1.webp',
-      "image2": 'src/public/Western-18-2.webp'
+      "image1": '/public/Western-18-1.webp',
+      "image2": '/public/Western-18-2.webp'
     },
     {
       "id": 19,
@@ -423,8 +408,8 @@ export const tradition =[
       "price": 4000,
       "description": "A sunny yellow off-shoulder dress with a smocked bodice.",
       "about": "Great for vacations and outdoor events.",
-      "image1": 'src/public/Western-19-1.webp',
-      "image2": 'src/public/Western-19-2.webp'
+      "image1": '/public/Western-19-1.webp',
+      "image2": '/public/Western-19-2.webp'
     },
     {
       "id": 20,
@@ -432,20 +417,20 @@ export const tradition =[
       "price": 7500,
       "description": "An elegant black cape dress with minimal embellishments.",
       "about": "A dramatic yet sophisticated choice for evening occasions.",
-      "image1": 'src/public/Western-20-1.webp',
-      "image2": 'src/public/Western-20-2.webp'
+      "image1": '/public/Western-20-1.webp',
+      "image2": '/public/Western-20-2.webp'
     }
   ];
 
   export const traditionalHomeImgae =[
     {
-      "image" :"src/public/New Banner3.jpg"
+      "image" :"/public/New Banner3.jpg"
     },
     {
-      "image" :"src/public/New BAnner 1.jpg"
+      "image" :"/public/New BAnner 1.jpg"
     },
     {
-      "image" :"src/public/Traditional_New_Banner.webp"
+      "image" :"/public/Traditional_New_Banner.webp"
     },
     
   ]
