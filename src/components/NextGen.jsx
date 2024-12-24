@@ -6,10 +6,10 @@ function NextGen() {
         <div className='nextGen-Main-Conatiner'>
             <h2>Next-Gen Fashion</h2>
             <div className='nextGen-contents'>
-                <img src='/public/nextGen1.avif' />
-                <img src='/public/nextGen2.avif' />
-                <img src='/public/nextGen3.avif' />
-                <img src='/public/nextGen4.avif' />
+                <img src='/nextGen1.avif' />
+                <img src='/nextGen2.avif' />
+                <img src='/nextGen3.avif' />
+                <img src='/nextGen4.avif' />
 
             </div>
             <button onClick={()=>navigate('/traditional')}>View More</button>

@@ -62,7 +62,7 @@ const navigate=useNavigate()
                 </div>
             </div>
             <div className='PartyEnd-Main-Conatiner'>
-                <img src='src/public/PArtyEnda.avif'></img>
+                <img src='/PArtyEnda.avif'></img>
             </div>
             <div className='Trendy-content'>
                 <div className='Slider-seeting'>
