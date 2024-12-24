@@ -1,0 +1,166 @@
+.Traditional-Main-Conatiner {
+    width: 95%;
+    background: linear-gradient(to right, #ffe4e1, #ffc1cc);
+    margin: 0 auto;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    padding: 1rem; 
+    display: flex;
+    flex-direction: column;
+}
+.Traditional-content {
+    position: relative; 
+    width: 100%;
+    height: auto;
+    background: linear-gradient(to right, #ffe4e1, #ffc1cc);
+    overflow: hidden; 
+}
+.Traditional-Main-Conatiner h1{
+    text-align: center;
+    font-size: 3rem;
+}
+.Traditional-Main-Conatiner button{
+    margin: 0 auto;
+    background-color: #ff0055e7;
+    font-size: 1.1rem;
+    padding: 0.6rem;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    border-radius:0.7rem;
+    color: #ffffff;
+}
+.slick-slide {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+}
+.OuterCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem auto;
+    padding: 0; 
+    width: 100%;
+    height: 70vh;
+    flex-wrap: wrap;
+}
+.InnerCard {
+    width: 80%;
+    height: 90%;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.536);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+}
+.InnerCard:hover{
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+.InnerCard img {
+    width: 70%;
+    height: 80%;
+    margin: 0 auto;
+    transition:opacity 0.3s ease;
+}
+.InnerCard .hover-img{
+    position: absolute;
+    width: 70%;
+    height: 75%;
+    opacity: 0;
+    z-index: 1;
+}
+.InnerCard:hover .hover-img {
+    opacity: 1;
+}
+.slick-prev, .slick-next {
+    display: none;
+}
+.buy-btn {
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #ff4500;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+.InnerCard:hover .buy-btn {
+    opacity: 1;
+    transform: translateX(-50%) translateY(-10%);
+}
+.buy-btn:hover {
+    background-color: #e63e00;
+}
+.InnerCard:hover p{
+    display: none;
+}
+@media screen and (max-width: 768px)  {
+    .OuterCard{
+        height: 40vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin:0;
+        padding: 0;
+    }
+    .InnerCard{
+        width: 60%;
+        align-items: center;
+        text-align: center;
+    }
+    .InnerCard h2{
+        font-size: 1.2rem;
+    }
+    .InnerCard p{
+        font-size: .89rem;
+    }
+    .InnerCard img{
+        height: 70%;
+    }
+    .slick-slide {
+        display: flex; 
+        flex-direction: column;
+    }
+    @media screen and (max-width: 468px) {
+        .OuterCard{
+            height: 50vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin:0;
+            padding: 0;
+            width: 70%;
+        }
+        .InnerCard{
+            width: 80%;
+            align-items: center;
+            text-align: center;
+        }
+        .InnerCard h2{
+            font-size: 1.2rem;
+        }
+        .InnerCard p{
+            font-size: .89rem;
+        }
+        .InnerCard img{
+            height: 70%;
+        }
+        .slick-slide {
+            display: flex; 
+            flex-direction: column;
+        }   
+    }
+}

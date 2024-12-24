@@ -1,0 +1,70 @@
+.Footer-Main-Contanier{
+    width: 95%;
+    background:linear-gradient(to right, #ffe4e1, #ffc1cc);
+    margin: 1rem auto;
+    border-radius: 1rem;
+    display: flex;
+    padding: 1rem 0;
+}
+.footer-Left-Component{
+    width: 30%;
+}
+.footer-left-content{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 70%;
+    margin: 0 auto;
+}
+.footer-left-content h1 span{
+    font-size: 1.4rem;
+    letter-spacing: 0.5px;
+}
+.footer-Right-Component{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 1rem;
+    width: 70%;
+}
+.top-Categories{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+}
+@media screen and (max-width: 768px) {
+.Footer-Main-Contanier{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 1rem;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+}
+.footer-Left-Component{
+    width: 90%;
+}
+.footer-left-content{
+    width: 90%;
+    align-items: center;
+    font-size: 1rem;
+}
+.footer-Right-Component{
+    width: 90%;   
+}
+}
+@media screen and (max-width: 512px) {
+    .footer-left-content h1,.footer-left-content h1 span{
+        font-size:1rem;
+    }
+    .footer-left-content p{
+        font-size:10px;
+    }
+    .footer-Right-Component .top-Categories h2{
+        font-size: 0.8rem;
+    }
+    .footer-Right-Component .top-Categories a{
+        font-size: 0.5rem;
+    }
+}

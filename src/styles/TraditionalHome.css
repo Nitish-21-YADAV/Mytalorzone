@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.TraditionalHome-Main-Container{
+    width: 100%;
+    height: auto;
+}
+.TraditionalHome-Content{
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    gap: 1rem;
+}
+.TraditionalHome-hero{
+    width: 100%;    
+    position: relative;
+    margin-top: 1rem;
+}
+.Slider-conatiner{
+    width: 100vw;
+    height: 85vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.Slider-conatiner img{
+    width: 100vw;
+    height: 100%;
+    border-radius: 1rem;
+    margin: 0 auto;
+}
+.TraditionalHomeImages-Cards {
+    width: 100%;
+   border-radius: 1rem;
+   background:linear-gradient(to right, #ffe4e1, #ff9fb0);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.TraditionalHomeImages-Cards-Details {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+}
+.TraditionalHomeImages-Cards-OuterCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem auto;
+    padding: 0; 
+    width:25%;
+    height: 70vh;
+    flex-wrap: wrap;
+}
+.TraditionalHomeImages-Cards-InnerCard {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.536);
+    transition: transform 0.5s ease, box-shadow 0.3s ease;
+    position: relative;
+    justify-content: center;
+}
+.TraditionalHomeImages-Cards-InnerCard:hover{
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+.TraditionalHomeImages-Cards-InnerCard p1{
+    font-weight: bold;
+}
+.TraditionalHomeImages-Cards-InnerCard img {
+    width: 70%;
+    height: 80%;
+    margin: 0 auto;
+    transition:opacity 0.3s ease;
+}
+.Cart{
+    background-color: #464646;
+    width: 100%;
+    padding: 0.4rem;
+    color: white;
+}
+.Final-Cart{
+    margin: 0 auto;
+    padding: 0.7rem 1rem;
+    font-size: 1.2rem;
+    background-color: #ff2155;
+    align-items: center;
+    border-radius: 0.6rem;
+    margin-bottom: 2rem;
+}
+.TraditionalHomeImages-Cards-InnerCard .hover-img{
+    position: absolute;
+    width:90%;
+    height:80%;
+    opacity: 0;
+    z-index: 1;
+    top:3%;
+    transition: opacity 0.3s ease;
+}
+.TraditionalHomeImages-Cards-InnerCard:hover .hover-img {
+    opacity: 1;
+}
+.slick-prev, .slick-next {
+    display: none;
+}
+.buy-btn {
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #ff4500;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+.TraditionalHomeImages-Cards-InnerCard:hover .buy-btn {
+    opacity: 1;
+    transform: translateX(-50%) translateY(-10%);
+}
+.buy-btn:hover {
+    background-color: #e63e00;
+}
+.TraditionalHomeImages-Cards-InnerCard:hover p{
+    display: none;
+}
+@media screen and (max-width: 768px)  {
+    .TraditionalHomeImages-Cards-OuterCard{
+        height: 60vh;
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin:0;
+        padding: 0;
+    }
+    .TraditionalHomeImages-Cards-InnerCard{
+        width: 70%;
+        align-items: center;
+        text-align: center;
+    }
+    .TraditionalHomeImages-Cards-InnerCard h3{
+        font-size: 1rem;
+    }
+    .TraditionalHomeImages-Cards-InnerCard p{
+        font-size: 0.89rem;
+    }
+    .TraditionalHomeImages-Cards-InnerCard img{
+        height: 70%;
+        width: 100%;
+    }
+    .slick-slide {
+        display: flex; 
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 568px) {
+    .TraditionalHomeImages-Cards-OuterCard{
+        height: 60vh;
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin:0;
+        padding: 0;
+    }
+    .TraditionalHomeImages-Cards-InnerCard{
+        width: 80%;
+        align-items: center;
+        text-align: center;
+        margin: auto 0;
+    }
+    .TraditionalHomeImages-Cards-InnerCard h3{
+        font-size: 0.8rem;
+    }
+    .TraditionalHomeImages-Cards-InnerCard p{
+        font-size: 0.6rem;
+    }
+    .TraditionalHomeImages-Cards-InnerCard p1{
+        font-size: 0.6rem;
+        font-weight: bold;
+    }
+    .TraditionalHomeImages-Cards-InnerCard img{
+        height: 70%;
+        width: 100%;
+    }
+}
